@@ -7,13 +7,12 @@ It is meant to be used with Safari's "Add To Home Screen" feature.
 
 ### Installation
 
-Drag the mobile.js file into your project and link it like any other Javascript file. 
-
-```
-<script src="path/to/mobile.js"></script>
-```
+Drag the mobile.js file into your project and link it like any other Javascript file.
+*or*
+You could also just clone this repo and begin your dev there!
 
 Note: Link this before you call any of its functions, just like most JS libraries.
+Also Note: Add all files you want to save for offline in the app.manifest file. Make sure your Safari is not in private!
 
 ### Documentation
 
